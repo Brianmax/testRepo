@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include "node.h"
 using namespace std;
 
 int main()
@@ -9,5 +10,6 @@ int main()
     cout<<"Linea 4"<<endl;
     cout<<"Linea 5"<<endl;
     cout<<"Linea 6"<<endl;
+    node<int> nodo1;
     return 0;
 }
