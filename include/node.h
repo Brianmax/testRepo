@@ -9,4 +9,9 @@ struct node
         next = n;
     }
     void print(T k);
+    bool  find(T key)
+    {
+        cout<<"Esta es una funcion find"<<endl;
+        return true;
+    }
 };
