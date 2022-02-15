@@ -14,4 +14,6 @@ struct node
         cout<<"Esta es una funcion find"<<endl;
         return true;
     }
+    void insert(T key);
+    void remove(T key);
 };
