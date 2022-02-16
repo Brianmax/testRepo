@@ -9,7 +9,7 @@ int main()
     cout<<"Linea 3"<<endl;
     cout<<"Linea 4"<<endl;
     cout<<"Linea 5"<<endl;
-    cout<<"Linea 6"<<endl;
+    cout<<"Master Line"<<endl;
     node<int> nodo1;
     return 0;
 }
