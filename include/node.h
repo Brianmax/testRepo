@@ -15,5 +15,5 @@ struct node
         return true;
     }
     void insert(T key);
-    void remove(T key);
+    void NewBranchFunction(T key);
 };
